@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @picasso091
 - 👀 I’m interested in programming and hardware
-- 🌱 I’m currently learning frontend webdev
+- 🌱 I’m currently learning fullstack webdev, python and machine learning 
 - 💞️ I’m looking to collaborate on making new websites
 - 📫 How to reach me FaceBook : Rakshya Panta
 
