@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @picasso091
-- 👀 I’m interested in programming and hardware
-- 🌱 I’m currently learning fullstack webdev, python and machine learning 
-- 💞️ I’m looking to collaborate on making new websites
-- 📫 How to reach me FaceBook : Rakshya Panta
+- 👀 I’m interested in developing software programs
+- 🌱 Experienced with Node.js,React.js,MongoDB, Python, Machine Learning, AI
+- 📫 How to reach me LinkedIn : Rakshya Panta
 
-<!---
-picasso091/picasso091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
